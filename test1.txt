@@ -1,0 +1,10 @@
+ Volume in drive C is SYSTEM
+ Volume Serial Number is 1C61-A4F7
+
+ Directory of C:\Users\SASNOTK\Desktop\dummy\gitdemo
+
+06/09/2021  12:20 AM    <DIR>          .
+06/09/2021  12:20 AM    <DIR>          ..
+06/09/2021  12:20 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  25,142,657,024 bytes free
